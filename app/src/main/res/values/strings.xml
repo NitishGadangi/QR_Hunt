@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QrHunt</string>
+
+    <string name="test_x1">Question1 when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="test_x2">Question2 when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="test_x3">Question3 when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="test_x4">Question4 when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="test_x5">Question5 when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+</resources>
