@@ -4,6 +4,7 @@
 ## TREASURE HUNT @JNTUH [SPOORTHI 2k20]
 **A QR Based Scavenger Hunt Game** <br>
 Download our app from here:  http://bit.ly/spoorthihuntapp
+
 <br>
 *"A box without hinges, key, or lid, yet golden treasure inside is hidden.” - J. R. R. Tolkien*
 <br>
