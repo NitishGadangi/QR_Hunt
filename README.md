@@ -29,7 +29,7 @@ TREASURE HUNT allows you to experience the thrill in solving the clues guiding t
 
 <table>
     <tr>
-     <td><kbd><img src="./screenshots/thunt.jpeg"></kbd></td>
+     <td><kbd><img src="./screenshots/thunt.jpg"></kbd></td>
     </tr>
 </table>
 
