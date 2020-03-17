@@ -1,4 +1,4 @@
-<img src="https://github.com/kiwix/kiwix-android/blob/master/Kiwix_icon_transparent_512x512.png" align="right" height='250'>
+<img src="./screenshots/icon.png" align="right" height='250'>
 
 # QR_Hunt
 💰 App for QR Based Treasure Hunt Game for our College fest <br>
