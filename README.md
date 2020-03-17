@@ -49,6 +49,7 @@ TREASURE HUNT allows you to experience the thrill in solving the clues guiding t
 
 for more details visit : http://www.jntuhspoorthi.com/spoorthi2020/events/index.html
 
+## License
 ```
 The MIT License (MIT)
 Copyright (c) 2020 Nitish Gadangi
