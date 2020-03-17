@@ -12,7 +12,7 @@ This app uses AES bases Encrypted QRs for in game Transactions. The Master app f
 
 Ever fancied to step foot in an explorer’s shoes and get set in search for hidden treasures? <br>
 
-Spoorthi 2k20 presents you, Treasure Hunt! Tease your brain, solve clues and find locations inside JNTUH to win cash prizes of triple the amount you pay. <br>
+Spoorthi 2k20 presents you, Treasure Hunt! Tease your brain, solve clues and find locations inside JNTUH to win cash prizes. <br>
 
 TREASURE HUNT allows you to experience the thrill in solving the clues guiding the treasure.. <br>
 
@@ -35,13 +35,6 @@ https://chat.whatsapp.com/CT65FzTFPZgJlW2rkGpyfc <br>
 <br>
                -------------------------------------------------------------------
 
-*ENTRY FEE* <br>
-200 FOR TEAM (MAX 4 HUNTERS)<br>
-<br>
-*TREASURE* <br>
-WINNER : ₹600; <br>
-RUNNER : ₹400; <br>
-<br>
 *Contact* <br>
 NITISH 9985319282 <br>
 MANOJ 8074861310 <br>
