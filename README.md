@@ -5,16 +5,33 @@
 
 [![](https://github.com/NitishGadangi/Freemium-App/blob/master/google_play_store.png?raw=true)](https://play.google.com/store/apps/details?id=com.nitish.qrhunt)
 
+**Screenshots**
+
+<table>
+    <tr>
+     <td><kbd><img src="./screenshots/one.jpeg"></kbd></td>
+     <td><kbd><img src="./screenshots/two.jpeg"></kbd></td>
+     <td><kbd><img src="./screenshots/three.jpeg""></kbd></td>
+     <td><kbd><img src="./screenshots/four.jpeg"></kbd></td>
+    </tr>
+</table>
+
 This app uses AES bases Encrypted QRs for in game Transactions. The Master app for generation of valid QRs can be downloaded from [here](https://github.com/NitishGadangi/QR_Hunt-Master) <br>
 
 ## About TREASURE HUNT @JNTUH [SPOORTHI 2k20]
 **A QR Based Scavenger Hunt Game** <br>
 
-Ever fancied to step foot in an explorer’s shoes and get set in search for hidden treasures? <br>
+Ever fancied to step foot in an explorer’s shoes and get set in search for hidden treasures?
 
-Spoorthi 2k20 presents you, Treasure Hunt! Tease your brain, solve clues and find locations inside JNTUH to win cash prizes. <br>
+Spoorthi 2k20 presents you, Treasure Hunt! Tease your brain, solve clues and find locations inside JNTUH to win cash prizes.
 
-TREASURE HUNT allows you to experience the thrill in solving the clues guiding the treasure.. <br>
+TREASURE HUNT allows you to experience the thrill in solving the clues guiding the treasure..
+
+<table>
+    <tr>
+     <td><kbd><img src="./screenshots/thunt.jpeg"></kbd></td>
+    </tr>
+</table>
 
 *☠️ WARNING:-* <br>
 *Treasure hunting is not for the faint-hearted, so expect some real obstacles in your way!* <br>
