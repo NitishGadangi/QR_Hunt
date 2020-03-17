@@ -1,3 +1,5 @@
+<img src="./screenshots/icon.png" align="right" height='250'>
+
 # QR_Hunt
 💰 App for QR Based Treasure Hunt Game for our College fest <br>
 
@@ -5,16 +7,33 @@
 
 [![](https://github.com/NitishGadangi/Freemium-App/blob/master/google_play_store.png?raw=true)](https://play.google.com/store/apps/details?id=com.nitish.qrhunt)
 
+**Screenshots**
+
+<table>
+    <tr>
+     <td><kbd><img src="./screenshots/one.jpeg"></kbd></td>
+     <td><kbd><img src="./screenshots/two.jpeg"></kbd></td>
+     <td><kbd><img src="./screenshots/three.jpeg""></kbd></td>
+     <td><kbd><img src="./screenshots/four.jpeg"></kbd></td>
+    </tr>
+</table>
+
 This app uses AES bases Encrypted QRs for in game Transactions. The Master app for generation of valid QRs can be downloaded from [here](https://github.com/NitishGadangi/QR_Hunt-Master) <br>
 
 ## About TREASURE HUNT @JNTUH [SPOORTHI 2k20]
 **A QR Based Scavenger Hunt Game** <br>
 
-Ever fancied to step foot in an explorer’s shoes and get set in search for hidden treasures? <br>
+Ever fancied to step foot in an explorer’s shoes and get set in search for hidden treasures?
 
-Spoorthi 2k20 presents you, Treasure Hunt! Tease your brain, solve clues and find locations inside JNTUH to win cash prizes. <br>
+Spoorthi 2k20 presents you, Treasure Hunt! Tease your brain, solve clues and find locations inside JNTUH to win cash prizes.
 
-TREASURE HUNT allows you to experience the thrill in solving the clues guiding the treasure.. <br>
+TREASURE HUNT allows you to experience the thrill in solving the clues guiding the treasure..
+
+<table>
+    <tr>
+     <td><kbd><img src="./screenshots/thunt.jpg"></kbd></td>
+    </tr>
+</table>
 
 *☠️ WARNING:-* <br>
 *Treasure hunting is not for the faint-hearted, so expect some real obstacles in your way!* <br>
@@ -27,17 +46,18 @@ TREASURE HUNT allows you to experience the thrill in solving the clues guiding t
 -> Solve any FOUR clues out of FIVE and get back to the Starting Point (ECE department) <br>
 -> The first team to reach the starting point(ECE department) will be declared the winner. <br>
 
-**REGISTRATION:** <br>
-INTERESTED HUNTERS JOIN THIS WHATSAPP GROUP(time will be announced in the group) <br>
-https://chat.whatsapp.com/CT65FzTFPZgJlW2rkGpyfc <br>
-<br>
-**REGISTRATION FEE CAN BE PAID ON THE DAY OF EVENT**
-<br>
-               -------------------------------------------------------------------
 
-*Contact* <br>
-NITISH 9985319282 <br>
-MANOJ 8074861310 <br>
-RAHUL 9100976596 <br>
-<br>
 for more details visit : http://www.jntuhspoorthi.com/spoorthi2020/events/index.html
+
+```
+The MIT License (MIT)
+Copyright (c) 2020 Nitish Gadangi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
+**Made with ❤️ by Nitish**
