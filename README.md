@@ -1,7 +1,13 @@
 # QR_Hunt
 💰 App for QR Based Treasure Hunt Game for our College fest <br>
 
-## TREASURE HUNT @JNTUH [SPOORTHI 2k20]
+**Now Available on Playstore**
+
+[![](https://github.com/NitishGadangi/Freemium-App/blob/master/google_play_store.png?raw=true)](https://play.google.com/store/apps/details?id=com.nitish.qrhunt)
+
+This app uses AES bases Encrypted QRs for in game Transactions. The Master app for generation of valid QRs can be downloaded from [here](https://github.com/NitishGadangi/QR_Hunt-Master) <br>
+
+## About TREASURE HUNT @JNTUH [SPOORTHI 2k20]
 **A QR Based Scavenger Hunt Game** <br>
 Download our app from here:  http://bit.ly/spoorthihuntapp
 
