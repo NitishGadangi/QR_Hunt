@@ -1,10 +1,12 @@
 package com.nitish.qrhunt;
 
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.os.Bundle;
@@ -12,6 +14,7 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import mehdi.sakout.fancybuttons.FancyButton;
 
@@ -19,7 +22,7 @@ public class QuestionPaper extends AppCompatActivity {
     TextView tv_teamName;
     TextView tv_ques_q1,tv_ques_q2,tv_ques_q3,tv_ques_q4,tv_ques_q5;
     FancyButton tv_verify_q1,tv_verify_q2,tv_verify_q3,tv_verify_q4,tv_verify_q5;
-    String baseKey="test_";
+    String baseKey="hunt_";
     String[] keyList={"x1","x2","x3","x4","x5"};
     String teamName;
     String srcKey="x1x2x3x4x5";
@@ -27,7 +30,21 @@ public class QuestionPaper extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
-        super.onBackPressed();
+        FragClue test=(FragClue) getSupportFragmentManager().findFragmentByTag("CLUE_SCANNER");
+        if (test != null && test.isVisible()) {
+            //DO STUFF
+            super.onBackPressed();
+        }
+        else {
+            //Whatever
+            AlertDialog alertDialog = new AlertDialog.Builder(QuestionPaper.this)
+                    .setIcon(android.R.drawable.ic_dialog_alert)
+                    .setTitle("Do not Go Back !")
+                    .setMessage("You should not go back. Closing the app will ruin all your Game progress. Thus you end up loosing the Treasure.")
+                    .setPositiveButton("Ok", null)
+                    .show();
+        }
+
     }
 
     @Override
@@ -73,7 +90,7 @@ public class QuestionPaper extends AppCompatActivity {
                 FragmentManager fragmentManager = getSupportFragmentManager();
 
                 fragmentManager.beginTransaction().addToBackStack(null)
-                        .replace(R.id.frameLayout, mFragment).commit();
+                        .replace(R.id.frameLayout, mFragment,"CLUE_SCANNER").commit();
             }
         });
         tv_verify_q2.setOnClickListener(new View.OnClickListener() {
@@ -90,7 +107,7 @@ public class QuestionPaper extends AppCompatActivity {
                 FragmentManager fragmentManager = getSupportFragmentManager();
 
                 fragmentManager.beginTransaction().addToBackStack(null)
-                        .replace(R.id.frameLayout, mFragment).commit();
+                        .replace(R.id.frameLayout, mFragment,"CLUE_SCANNER").commit();
             }
         });
         tv_verify_q3.setOnClickListener(new View.OnClickListener() {
@@ -107,7 +124,7 @@ public class QuestionPaper extends AppCompatActivity {
                 FragmentManager fragmentManager = getSupportFragmentManager();
 
                 fragmentManager.beginTransaction().addToBackStack(null)
-                        .replace(R.id.frameLayout, mFragment).commit();
+                        .replace(R.id.frameLayout, mFragment,"CLUE_SCANNER").commit();
             }
         });
         tv_verify_q4.setOnClickListener(new View.OnClickListener() {
@@ -124,7 +141,7 @@ public class QuestionPaper extends AppCompatActivity {
                 FragmentManager fragmentManager = getSupportFragmentManager();
 
                 fragmentManager.beginTransaction().addToBackStack(null)
-                        .replace(R.id.frameLayout, mFragment).commit();
+                        .replace(R.id.frameLayout, mFragment,"CLUE_SCANNER").commit();
             }
         });
         tv_verify_q5.setOnClickListener(new View.OnClickListener() {
@@ -141,7 +158,7 @@ public class QuestionPaper extends AppCompatActivity {
                 FragmentManager fragmentManager = getSupportFragmentManager();
 
                 fragmentManager.beginTransaction().addToBackStack(null)
-                        .replace(R.id.frameLayout, mFragment).commit();
+                        .replace(R.id.frameLayout, mFragment,"CLUE_SCANNER").commit();
             }
         });
 

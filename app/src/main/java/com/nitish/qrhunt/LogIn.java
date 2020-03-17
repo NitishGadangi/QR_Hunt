@@ -31,7 +31,7 @@ public class LogIn extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent i=new Intent(getApplicationContext(),QuestionPaper.class);
-                i.putExtra("TEAMKEY","x1x2x3x4x5");
+                i.putExtra("TEAMKEY","a1a2a3a4a5");
                 i.putExtra("TEAMNAME","DEMO");
                 startActivity(i);
             }
