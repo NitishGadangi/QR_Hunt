@@ -9,11 +9,7 @@ This app uses AES bases Encrypted QRs for in game Transactions. The Master app f
 
 ## About TREASURE HUNT @JNTUH [SPOORTHI 2k20]
 **A QR Based Scavenger Hunt Game** <br>
-Download our app from here:  http://bit.ly/spoorthihuntapp
 
-<br>
-*"A box without hinges, key, or lid, yet golden treasure inside is hidden.” - J. R. R. Tolkien*
-<br>
 Ever fancied to step foot in an explorer’s shoes and get set in search for hidden treasures? <br>
 
 Spoorthi 2k20 presents you, Treasure Hunt! Tease your brain, solve clues and find locations inside JNTUH to win cash prizes of triple the amount you pay. <br>
