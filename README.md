@@ -2,7 +2,7 @@
 
 # QR_Hunt
 💰 App for QR Based Treasure Hunt Game for our College fest <br>
-Find all Clues and Answers here in this [ClueSheet](https://github.com/NitishGadangi/QR_Hunt/blob/master/ClueSheet.md) <br>
+**Find all Clues and Answers here in this [ClueSheet](https://github.com/NitishGadangi/QR_Hunt/blob/master/ClueSheet.md)**<br>
 
 **Now Available on Playstore**
 
