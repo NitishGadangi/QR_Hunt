@@ -22,7 +22,7 @@
          
 ## Development
 * Edit ```strings.xml``` to add your own questions
-* This app uses AES bases Encrypted QRs for in game Transactions. The Master app for generation of valid QRs can be downloaded from **[here](https://github.com/NitishGadangi/QR_Hunt-Master)** <br>
+* This app uses AES bases Encrypted QRs for in game Transactions. The **Master app** for generation of valid QRs can be downloaded from **[here](https://github.com/NitishGadangi/QR_Hunt-Master)** <br>
 
 ## About TREASURE HUNT @JNTUH [SPOORTHI 2k20]
 **A QR Based Scavenger Hunt Game** <br>
