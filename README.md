@@ -3,9 +3,10 @@
 # QR_Hunt
 💰 App for QR Based Treasure Hunt Game for our College fest <br>
 
-**Find all Clues and Answers here in this [ClueSheet](https://github.com/NitishGadangi/QR_Hunt/blob/master/ClueSheet.md)**<br>
+### Find all Clues and Answers here in this [ClueSheet](https://github.com/NitishGadangi/QR_Hunt/blob/master/ClueSheet.md)
+### [Try it out on Instagram as AR Filter](https://bit.ly/insidejntuhceh)
 
-**Now Available on Playstore**
+### Now Available on Playstore
 
 [![](https://github.com/NitishGadangi/Freemium-App/blob/master/google_play_store.png?raw=true)](https://play.google.com/store/apps/details?id=com.nitish.qrhunt)
 
