@@ -1,4 +1,4 @@
-[![](https://github.com/NitishGadangi/QR_Hunt/blob/cluesheet/screenshots/logo1.jpg?raw=true)](https://bit.ly/insidejntuhceh)
+<img src="./screenshots/logo1.jpg" align="right" height='250'>
 
 ### [Click here to Try it out on Instagram](https://bit.ly/insidejntuhceh)
 
