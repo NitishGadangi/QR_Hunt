@@ -1,3 +1,7 @@
+[![](https://github.com/NitishGadangi/QR_Hunt/blob/cluesheet/screenshots/logo1.jpg?raw=true)](https://bit.ly/insidejntuhceh)
+
+### [Click here to Try it out on Instagram](https://bit.ly/insidejntuhceh)
+
 ## Clue Sheet
 1. **Rule out the 'L'\nIf we have an indeterminate form 0by0 or ∞by∞ ,all we need to do is differentiate the numerator and ddenominator.**
     * Hospital
