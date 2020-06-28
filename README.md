@@ -4,7 +4,7 @@
 💰 App for QR Based Treasure Hunt Game for our College fest <br>
 
 ### Find all Clues and Answers here in this [ClueSheet](https://nitishgadangi.github.io/QR_Hunt/)
-### [Try it out on Instagram as AR Filter](https://bit.ly/insidejntuhceh)
+### [Try it out on Instagram as AR Filter ✨](https://bit.ly/insidejntuhceh)
 
 ### Now Available on Playstore
 
